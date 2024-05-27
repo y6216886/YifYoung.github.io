@@ -1,0 +1,9 @@
+@article{zeng2019breaking,
+  title={Breaking Winner-Takes-All: Iterative-Winners-Out Networks for Weakly Supervised Temporal Action Localization},
+  author={Zeng, Runhao and Gan, Chuang and Chen, Peihao and Huang, Wenbing and Wu, Qingyao and Tan, Mingkui},
+  journal={IEEE Transactions on Image Processing},
+  volume={28},
+  number={12},
+  pages={5797--5808},
+  year={2019},
+}

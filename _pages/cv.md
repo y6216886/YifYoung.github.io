@@ -1,4 +1,4 @@
----
+﻿---
 layout: archive
 title: "CV"
 permalink: /cv/
@@ -6,73 +6,60 @@ author_profile: true
 redirect_from:
   - /resume
 ---
+
 {% include base_path %}
 
+Personal Information
+----------
+*******
+* Date of Birth　　　　　　19 May, 1983
+* Gender　　　　　　　　 &ensp;Male
+* Nationality　　　　　　　People's Republic of China
+
 Education
-=========
+----------
+*******
+* B.A. in Environmental Engineering , Hunan University, 2002 - 2006
+* M.E. in Control Science and Engineering, Hunan University, 2006 - 2009
+* Ph.D in Computer Science, Nanyang Technological University, 2009 - 2014
 
-* Ph.D in School of Software Engineering, South China University of Technology, 2025 (expected)
-* M.S. in School of Software Engineering, South China University of Technology, 2019-2021
-* B.S. in School of Computer Science and Engineering, South China University of Technology, 2012-2016
+Work Experience
+----------
+*******
+* 2013.09 - 2014.05: Research Assistant
+  * Nanyang Technological University
+  * Supervisor: Prof. Ivor Tsang
 
-Work experience
-===============
+* 2014.06 - 2016.09: Senior Research Assistant
+  * School of Computer Engineering, The University of Adelaide
+
+* 2016.09 - now: Professor / PhD Tutor
+  * School of Software Engineering, South China University of Technology
 
 
-| CVTE Central Research Institute | Responsible for research on light field reconstruction algorithms, submitted one paper to TCSVT for major revision. | Apr. 2021 – Aug. 2021 |
-| ------------------------------- | ------------------------------------------------------------------------------------------------------------------- | ---------------------- |
-| CVTE Central Research Institute | Led the research on NeRF in the wild algorithms, published one ICCV Oral paper.                                     | Sep. 2022 – Feb. 2023 |
-| CVTE Digital Human Team         | Conducted research on 3D clothing human reconstruction algorithms, published one paper in CVPR.                     | Feb. 2023 – Aug. 2023 |
+Research Interest
+--------
+********
+* Machine learning 
+  * Machine learning theory
+  * Tensor analysis
+  * Large-scale parallel optimization
+  * Intelligent recommendation system
 
-Spring 2024: Academic Pages Collaborator
+* Computer vision
+  * Deep learning
+  * Image Identification
+  * Video understanding
+  * Transfer learning
+  * Image stabilization
 
-* Github University
-* Duties includes: Updates and improvements to template
-* Supervisor: The Users
+Research funding
+---------
+********
+* Hosted or participated in more than 10 national natural science funds, provincial international cooperation projects and enterprise horizontal projects.
 
-* Fall 2015: Research Assistant
-
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-* Summer 2015: Research Assistant
-
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-Skills
-======
-
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-============
-
-<ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-
-Talks
-=====
-
-<ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-
-Teaching
-========
-
-<ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-
-Service and leadership
-======================
-
-* Currently signed in to 43 different slack teams
+<!-- Programming Skills
+----------
+*******
+* Strong programming ability in C/C++.
+* Familiar with Python programming. -->
