@@ -13,19 +13,26 @@
   @include clearfix();
   margin-bottom: 1em;
 
+  @media screen and (min-width: $sidebar-screen-min-width) {
+    height: 100vh;
+    overflow-y: auto;               // Add scrollbar if the sidebar is too long
+    position: fixed;
+    padding-top: $masthead-height;
+  }
+
   @include breakpoint($large) {
     @include span(2 of 12);
-    opacity: 1.00;
+    opacity: 1;
     -webkit-transition: opacity 0.2s ease-in-out;
             transition: opacity 0.2s ease-in-out;
 
     &:hover {
-      // opacity: 1;
+      opacity: 1;
     }
   }
 
-
   @include breakpoint($x-large) {
+    max-width: $sidebar-link-max-width;
     padding-right: 0;
   }
 
@@ -73,7 +80,8 @@
   display: table-cell;
   vertical-align: top;
   width: 36px;
-  height: 36px;
+  // set width only, for non-square avatars
+  // height: 36px;
 
   @include breakpoint($large) {
     display: block;
@@ -120,6 +128,22 @@
   font-size: $type-size-5;
 }
 
+.sidebar .author__desktop {
+  display: none;
+  @media screen and (min-width: 1024px) {
+    display: block;
+  }
+}
+
+.author__pronouns {
+  margin: 0;
+
+  @include breakpoint($large) {
+    margin-top: 10px;
+    margin-bottom: 10px;
+  }
+}
+
 .author__bio {
   margin: 0;
 
@@ -161,7 +185,7 @@
   display: none;
   position: absolute;
   right: 0;
-  margin-top: 10px;
+  margin-top: 15px;
   padding: 10px;
   list-style-type: none;
   border: 1px solid $border-color;
@@ -223,6 +247,8 @@
     display: block;
     margin-bottom: 5px;
     padding-right: 5px;
+    padding-top: 2px;
+    padding-bottom: 2px;
     color: inherit;
     font-size: $type-size-5;
     text-decoration: none;
