@@ -18,11 +18,18 @@ Education
 Work experience
 ===============
 
-* Spring 2024: Academic Pages Collaborator
 
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+| CVTE Central Research Institute | Responsible for research on light field reconstruction algorithms, submitted one paper to TCSVT for major revision. | Apr. 2021 – Aug. 2021 |
+| ------------------------------- | ------------------------------------------------------------------------------------------------------------------- | ---------------------- |
+| CVTE Central Research Institute | Led the research on NeRF in the wild algorithms, published one ICCV Oral paper.                                     | Sep. 2022 – Feb. 2023 |
+| CVTE Digital Human Team         | Conducted research on 3D clothing human reconstruction algorithms, published one paper in CVPR.                     | Feb. 2023 – Aug. 2023 |
+
+Spring 2024: Academic Pages Collaborator
+
+* Github University
+* Duties includes: Updates and improvements to template
+* Supervisor: The Users
+
 * Fall 2015: Research Assistant
 
   * Github University
@@ -33,6 +40,16 @@ Work experience
   * Github University
   * Duties included: Tagging issues
   * Supervisor: Professor Git
+
+Skills
+======
+
+* Skill 1
+* Skill 2
+  * Sub-skill 2.1
+  * Sub-skill 2.2
+  * Sub-skill 2.3
+* Skill 3
 
 Publications
 ============
