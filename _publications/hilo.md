@@ -1,7 +1,7 @@
 ---
 title: "HiLo: Detailed and Robust 3D Clothed Human Reconstruction with High-and Low-Frequency Information of Parametric Models"
 collection: publications
-permalink: /publication/hilo
+permalink: /publications/hilo
 date: 2024-02
 venue: 'CVPR 2024'
 slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
