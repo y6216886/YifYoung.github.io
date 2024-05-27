@@ -11,7 +11,7 @@ I am a third-year Ph.D. candidate in the School of Software Engineering at South
 * **3D Digital Human Recostruction**: Single-view-based 3D Reconstruction; Text-driven 3D Reconstruction
 * **3D Scene Reconstruction**: 3D Reconstruction from In-the-wild images. SIngle-view-based Light Field Reconstruction
 
-I am currently seeking jobs specializing in Digital Human, 3D Reconstruction,multi-modal video understanding. If you have a suitable position available, please feel free to contact me.
+I am currently seeking jobs specializing in Digital Human, 3D Reconstruction. If you have a suitable position available, please feel free to contact me.
 
 A data-driven personal website
 ==============================
