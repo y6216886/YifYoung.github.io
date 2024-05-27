@@ -1,6 +1,5 @@
 ---
-title: "HiLo: Detailed and Robust 3D Clothed Human Reconstruction with
-High-and Low-Frequency Information of Parametric Models"
+title: "HiLo: Detailed and Robust 3D Clothed Human Reconstruction with High-and Low-Frequency Information of Parametric Models"
 collection: conferences
 permalink: /publication/HiLo
 date: 2024-02-01
