@@ -8,18 +8,18 @@ redirect_from:
   - /about.html
 ---
 <br />
-About me
+About me:
 I am a third-year Ph.D. candidate in the School of Software Engineering at South China University of Technology, advised by Prof. Mingkui Tan. I engage in achieving 3D Reconstruction with limited sources. Toward this goal, my research mainly focus on:
 
-* `<b>3D Digital Human Recostruction</b>`: Single-view-based 3D Reconstruction; Text-driven 3D Reconstruction
-* `<b>`3D Scene Reconstruction `</b>`: 3D Reconstruction from In-the-wild images. SIngle-view-based Light Field Reconstruction
 
-<!-- * My primary research interests are in <b>Visual Understanding</b> and mainly focus on:
-  * <b>Video Understanding</b>: self-supervised video representation learning, temporal action localization;
-  * <b>Embodied AI</b>: vision-and-language navigation; -->
+My primary research interests are in **3D reconstruction** and mainly focus on:
+
+* **3D Digital Human Reconstruction**: Single-view-based 3D Reconstruction; Text-driven 3D Reconstruction;
+* **3D Scene Reconstruction** : 3D Reconstruction from In-the-wild images. SIngle-view-based Light Field Reconstruction;
 
 I am currently seeking jobs specializing in Digital Human, 3D Reconstruction. If you have a suitable position available, please feel free to contact me.
-`<br>`
+
+
 
 # 🗞️ News
 
