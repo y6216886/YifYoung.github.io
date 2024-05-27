@@ -1,0 +1,8 @@
+@misc{yang2024hilo,
+      title={HiLo: Detailed and Robust 3D Clothed Human Reconstruction with High-and Low-Frequency Information of Parametric Models}, 
+      author={Yifan Yang and Dong Liu and Shuhai Zhang and Zeshuai Deng and Zixiong Huang and Mingkui Tan},
+      year={2024},
+      eprint={2404.04876},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}
