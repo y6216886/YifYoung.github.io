@@ -88,4 +88,4 @@ Journals
 
 # 🏆 Award
 
-* `<b>`2019:`</b>` MICCAI 2019:	Angle Closure Glaucoma Evaluation Challenge on Angle Closure Classification.  Runner-up
+* **MICCAI 2019**:Angle Closure Glaucoma Evaluation Challenge on Angle Closure Classification.  Runner-up
